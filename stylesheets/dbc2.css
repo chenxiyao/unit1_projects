@@ -1,0 +1,122 @@
+
+#header{
+    position: absolute; 
+    left: 0px; 
+    top: 20px;  
+    
+}
+
+#footer{
+    position: absolute; 
+    right: 0px;
+    bottom: 20px;
+     
+}
+
+#container{
+    position: absolute; 
+    right: 150px; 
+    top: 120px;
+   
+}
+
+.float{
+    float:left;
+    width:200px;
+    background:orange;
+  }
+
+.apic{
+	position: absolute; 
+    left: 300px; 
+    bottom: 110px;
+}
+
+.cpic{
+	position: absolute; 
+    left: 500px; 
+    bottom: 90px;
+}
+
+.tpic{
+	position: absolute;  
+    left: 700px; 
+    bottom: 100px;
+}
+
+.ppic{
+	position: absolute; 
+    left: 900px; 
+    bottom: 110px;
+}
+
+.apic_caption{
+	position: absolute; 
+    left: 310px; 
+    bottom: 220px;
+    color: red; 
+    font-size: 25px;
+}
+
+.cpic_caption{
+	position: absolute; 
+    left: 510px; 
+    bottom: 220px;
+    color: green; 
+    font-size: 25px;
+}
+
+.tpic_caption{
+	position: absolute; 
+    left: 710px; 
+    bottom: 220px;
+    color: red; 
+    font-size: 25px;
+}
+
+.ppic_caption{
+	position: absolute; 
+    left: 910px; 
+    bottom: 220px;
+    color: brown; 
+    font-size: 25px;
+}
+/*
+
+#header{
+    position: absolute; 
+    top: -40px; 
+    left: 10px; 
+   
+  }
+  .bottom{
+    position: absolute; 
+    bottom: -40px; 
+    left:60px; 
+    background-color: green
+  }
+
+  .bottom{
+    position: absolute; 
+    bottom: 10px; 
+    left:60px; 
+    background-color: yellow;
+  }
+  .top{
+    position: absolute; 
+    bottom: 15px; 
+    left:60px; 
+    background-color: green; 
+    z-index: 2;
+  }
+
+  
+
+  .float{
+     float:left;
+     width:50px;
+     background:yellow;
+   }
+   .clear-left{
+     clear:left
+   } */
